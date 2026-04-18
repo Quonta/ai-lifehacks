@@ -2,6 +2,8 @@
 
 Practical methods and workflows for using AI effectively.
 
+[日本語版](README.md)
+
 ## Contents
 
 ### Multi-Quonta System
