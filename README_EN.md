@@ -8,7 +8,7 @@ Practical methods and workflows for using AI effectively.
 
 A method for reviewing outputs from multiple AI threads with different contexts.
 
-####**Details**
+####Details
 
 When a task reaches a stopping point, the result is reviewed in another AI thread.
 
